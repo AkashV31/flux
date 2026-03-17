@@ -12,7 +12,7 @@ To help manage uncertainty, the system also introduces a **Safety Vault**, which
 
 
 ## AI Forecast Model
-![Flux Forecast AI](assets/flux%20forecast%20ai.jpg)
+![Flux Forecast AI](assets/flux%20forecast%20ai.jpeg)
 https://github.com/FreqLord/Flux_AI - link to repository.
 
 Alongside the application, a predictive modeling component was developed using **Prophet and XGBoost** to analyze historical income patterns and generate probabilistic forecasts of future earnings. Prophet handles the time-series aspects such as trends and seasonality, while XGBoost captures nonlinear relationships and improves prediction accuracy through gradient-boosted decision trees. Together, these models help estimate likely earning windows and income ranges that can support more informed financial planning.
